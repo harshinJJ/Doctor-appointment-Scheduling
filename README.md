@@ -1,1 +1,1 @@
-# Doctor-appointment-scheduler
+# Doctor-appointment-Scheduling
